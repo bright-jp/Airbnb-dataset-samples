@@ -1,65 +1,65 @@
 # Airbnb-dataset-samples
 
-<h2>A sample dataset of 1001 Airbnb property listings</h2>
+<h2>1001件のAirbnb物件リスティングのサンプルデータセット</h2>
 
 ![Airbnb dataset header](https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets.PNG)
 
-A Airbnb dataset sample of over 1000 property listings. Dataset was extracted using the <b>Bright Data API</b>.
+1000件を超える物件リスティングのAirbnbデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出しました。
 
-<h2>Data points included in this free dataset:</h2>
+<h2>この無料データセットに含まれるデータポイント:</h2>
 
-* ```property_id```: A unique identifier for the property listing on Airbnb
-* ```name```: Title or name of the Airbnb property listing
-* ```url```: The original URL to the Airbnb property listing
-* ```final_url```: Updated URL, possibly after any redirects or modifications
-* ```location```: General location information of the property
-* ```category```: Type or category of the Airbnb property
-* ```price```: Cost per night for renting the property
-* ```image```: URLs or references to images of the property
-* ```description```: Textual details describing the Airbnb property
-* ```guests```: Number of guests the property can accommodate
-* ```ratings```: Average rating based on guest reviews
-* ```reviews```: Number of reviews received for the property
-* ```seller_info```: Information about the property owner or host
-* ```pets_allowed```: Indicates if pets are allowed in the property (True/False)
-* ```house_rules```: Rules or guidelines set by the property owner
-* ```amenities```: List of amenities or facilities provided by the property
-* ```available_dates```: Dates when the property is available for booking
-* ```lat```: Latitude coordinates of the property
-* ```long```: Longitude coordinates of the property
+* ```property_id```: Airbnb上の物件リスティングの一意の識別子です
+* ```name```: Airbnb物件リスティングのタイトルまたは名称です
+* ```url```: Airbnb物件リスティングへの元のURLです
+* ```final_url```: リダイレクトまたは変更後の更新されたURLの可能性があります
+* ```location```: 物件の一般的なロケーション情報です
+* ```category```: Airbnb物件のタイプまたはカテゴリです
+* ```price```: 物件を借りる際の1泊あたりの費用です
+* ```image```: 物件画像のURLまたは参照です
+* ```description```: Airbnb物件を説明するテキストの詳細です
+* ```guests```: 収容可能なゲスト数です
+* ```ratings```: ゲストレビューに基づく平均評価です
+* ```reviews```: 物件が受け取ったレビュー数です
+* ```seller_info```: 物件オーナーまたはホストに関する情報です
+* ```pets_allowed```: 物件でペットが許可されているかどうかを示します（True/False）
+* ```house_rules```: 物件オーナーが設定したルールまたはガイドラインです
+* ```amenities```: 物件が提供するアメニティまたは設備のリストです
+* ```available_dates```: 予約可能な日付です
+* ```lat```: 物件の緯度座標です
+* ```long```: 物件の経度座標です
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Airbnb Properties Information (public data)"
-dataset which includes more than <b>11,000,000 companies</b>.
+これは「Airbnb Properties Information (public data)」から派生したサンプルのサブセットです。
+このデータセットには <b>11,000,000社以上の企業</b> が含まれています。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じて、ファイルは .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセットの配信タイプのオプション: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度: <b>Once, Daily, Weekly, Monthly, Quarterly, または Custom basis</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出したデータポイントに追加できるデータエンリッチメント: <b>要望に応じて。</b>
 
-<b>[Get the full Airbnb dataset](https://brightdata.com/products/datasets/airbnb)</b>.
+<b>[完全版のAirbnbデータセットを入手する](https://brightdata.jp/products/datasets/airbnb)</b>。
 
 
 ![Airbnb dataset visual](https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets-image.PNG)
 
-<h2>What are the Airbnb datasets use cases?</h2>
+<h2>Airbnbデータセットのユースケースは何ですか？</h2>
 
-<h3>1. Competitor Monitoring</h3>
+<h3>1. 競合モニタリング</h3>
 
-Keep a close watch on competitor locations, property listings, customer ratings, and reviews. Pinpoint areas where your listings and pricing can be optimized to surpass your competitors.
+競合のロケーション、物件リスティング、顧客評価、レビューを継続的に注視できます。自社のリスティングや価格設定を最適化して競合を上回るための改善領域を特定できます。
 
-<h3>2. Brand Perception</h3>
+<h3>2. ブランド認知</h3>
 
-Gain insights into customer opinions about your brand and competitors. Detect shifts in consumer preferences and market trends, allowing you to adjust your strategy to maintain or enhance brand reputation.
+自社ブランドおよび競合に対する顧客の意見に関するインサイトを得られます。消費者の嗜好や市場トレンドの変化を検知し、ブランド評価を維持または向上させるために戦略を調整できます。
 
-<h3>3. Market Insights</h3>
+<h3>3. 市場インサイト</h3>
 
-Uncover popular destinations and newly listed properties on Airbnb to stay ahead of industry trends. Leverage Airbnb data for in-depth market analysis, driving machine learning initiatives, and crafting innovative offerings.
+Airbnb上で人気の目的地や新規掲載物件を把握し、業界トレンドを先取りできます。Airbnbデータを活用して詳細な市場分析を行い、機械学習の取り組みを推進し、革新的な提供価値を設計できます。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiative は、さまざまな環境・社会課題に取り組む主要な学術機関・研究者、NGOおよびNPOに対し、Bright Data の <b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b> と <b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b> へのアクセスを提供します。申請は <b>[こちら](https://brightinitiative.com)</b> から提出できます。
