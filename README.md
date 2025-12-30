@@ -2,7 +2,7 @@
 
 <h2>1001件のAirbnb物件リスティングのサンプルデータセット</h2>
 
-![Airbnb dataset header](https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets.PNG)
+![Airbnb dataset header](https://github.com/bright-jp/Airbnb-dataset-samples/blob/main/airbnb-datasets.PNG)
 
 1000件を超える物件リスティングのAirbnbデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出しました。
 
@@ -44,7 +44,7 @@
 <b>[完全版のAirbnbデータセットを入手する](https://brightdata.jp/products/datasets/airbnb)</b>。
 
 
-![Airbnb dataset visual](https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets-image.PNG)
+![Airbnb dataset visual](https://github.com/bright-jp/Airbnb-dataset-samples/blob/main/airbnb-datasets-image.PNG)
 
 <h2>Airbnbデータセットのユースケースは何ですか？</h2>
 
