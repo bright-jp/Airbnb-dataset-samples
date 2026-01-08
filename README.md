@@ -1,4 +1,4 @@
-# Airbnb-dataset-samples
+# Airbnb データセットサンプル
 
 <h2>1001件のAirbnb物件リスティングのサンプルデータセット</h2>
 
